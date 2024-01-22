@@ -1,0 +1,9 @@
+SilentMode/
+├── silentmode/
+│   ├── __init__.py
+│   ├── main.py
+├── tests/
+│   ├── __init__.py
+│   ├── test_main.py
+├── .gitignore
+├── README.md
